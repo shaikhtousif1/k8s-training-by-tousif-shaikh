@@ -33,7 +33,7 @@ By the end of today’s session, you'll be able to:
 SS
 ## 🏗️ Kubernetes Architecture Overview
 
-![Architecture Diagram](images/k8s_arch.jpeg)
+![Architecture Diagram](images/k8s_archtecture.jpeg)
 
 ### 🔷 Control Plane Components
 

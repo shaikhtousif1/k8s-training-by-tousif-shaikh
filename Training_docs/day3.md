@@ -1,5 +1,3 @@
----
-```markdown
 # 📘 Kubernetes Day 3 - Advanced Workloads, Storage, and Helm
 
 ---

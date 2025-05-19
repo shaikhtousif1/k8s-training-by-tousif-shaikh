@@ -166,7 +166,11 @@ Use tools like:
 | HWT Framework    | ✅       |
 
 ---
+# Day 7 - Continue
 
+[Day 7 - Observability Stack Details](./day7_cont.md)
+
+---
 ## 📂 Extra: `alerts/high-restart-rate.yaml`
 
 ```yaml

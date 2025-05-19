@@ -15,6 +15,8 @@ Each day builds on the previous with:
 - [Day 3 - Storage & Stateful Apps](./Training_docs/day3.md)
 - [Day 4 - Scaling & Autoscaling](./Training_docs/day4.md)
 - [Day 5 - Authentication, RBAC & Security](./Training_docs/day5.md)
+- [Day 6 - Taints & Tolerations + Intro to Observability](./Training_docs/day6.md)
+- [Day 7 - Full Observability: Metrics, Logs & Traces](./Training_docs/day7.md)
 
 
 Let’s kube it simple, powerful, and production-grade 💪
